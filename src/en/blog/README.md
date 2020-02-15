@@ -2,8 +2,8 @@
 blog_index: true
 ---
 
-# Blog
+# EN Blog
 
-Welcome on Outreach Shame blog.
+EN Welcome on Outreach Shame blog.
 
 <BlogIndex />
